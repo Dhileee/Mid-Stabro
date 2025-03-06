@@ -1,0 +1,9 @@
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+wordcloud
+plotly
+folium
+streamlit-folium
